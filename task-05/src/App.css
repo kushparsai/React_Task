@@ -1,0 +1,35 @@
+/* App.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+}
+
+.data-container {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+.data-container h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.data-container p {
+  font-size: 1.2rem;
+  color: #555;
+}
